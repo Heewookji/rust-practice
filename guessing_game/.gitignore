@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/intellij,rust,macos
-# Edit at https://www.toptal.com/developers/gitignore?templates=intellij,rust,macos
+# Created by https://www.toptal.com/developers/gitignore/api/macos,intellij,rust
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,intellij,rust
 
 ### Intellij ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
@@ -12,7 +12,6 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-.idea
 
 # AWS User-specific
 .idea/**/aws.xml
@@ -154,4 +153,4 @@ Cargo.lock
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
 
-# End of https://www.toptal.com/developers/gitignore/api/intellij,rust,macos
+# End of https://www.toptal.com/developers/gitignore/api/macos,intellij,rust
